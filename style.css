@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.navDiv{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.image1{
+    width: 100%;
+}
+p{
+    
+    
+    width: 100%;
+}
+h1{
+    color: red;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: black;
+  }
